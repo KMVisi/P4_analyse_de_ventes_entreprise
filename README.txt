@@ -1,5 +1,5 @@
-Pour pouvoir lire l'analyse, deux fichiers sont nécéssaires :
-	- P4_01_scriptdonnées.ipynb, où dans un premier temps un nettoyage de données a été effectué,
-	- P4_01_scriptanalyse.ipynb, où les données sont ananlysées.
+Pour pouvoir lire l'analyse, deux fichiers sont nÃ©cÃ©ssaires :
+	- P4_01_scriptdonnÃ©es.ipynb, oÃ¹ dans un premier temps un nettoyage de donnÃ©es a Ã©tÃ© effectuÃ©,
+	- P4_02_scriptanalyse.ipynb, oÃ¹ les donnÃ©es sont ananlysÃ©es.
 
-Sont joints les graphiques de l'analyse au format .jpg ainsi que ce fichier README ci-présent.
+Sont joints les graphiques de l'analyse au format .jpg ainsi que ce fichier README ci-prÃ©sent.
